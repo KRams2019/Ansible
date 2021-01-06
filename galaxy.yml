@@ -4,8 +4,6 @@ version: "1.0.0"
 readme: "README.md"
 authors:
     - K Ram Sai
-    - "Author2 (https://author2.example.com)"
-    - "Author3 <author3@example.com>"
 dependencies: []
 license:
     - "MIT"
